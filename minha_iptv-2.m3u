@@ -203,7 +203,7 @@ http://45.185.15.154:9080/stream/28/index.m3u8
 # ===== TELECINETOUCH =====
 
 #EXTINF:-1 group-title="Filme",Telecine Touch
-http://governosptx.org:80/3llohwk4g9/kwf099q30o/9136.ts
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1285
 
 # ===== LIFETIME =====
 
@@ -250,10 +250,10 @@ http://138.204.86.4:8080/AE_HD/index.m3u8
 #EXTINF:-1 group-title="Filme",AMC
 http://cdn.p2player.online/vaniotvtcl284/1353466424556/1218
 
-# ===== BANDRJ =====
+# ===== BANDRJFHD =====
 
 #EXTINF:-1 group-title="TvAberta",Band RJ
-http://governosptx.org:80/3llohwk4g9/kwf099q30o/20524.ts
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1683
 
 # ===== ESPN =====
 
@@ -377,3 +377,54 @@ http://cdn.p2player.online/vaniotvtcl284/1353466424556/1248
 
 #EXTINF:-1 group-title="Variedade",Multishow SD
 http://cdn.p2player.online/vaniotvtcl284/1353466424556/1249
+
+# ===== BANDRJHD =====
+
+#EXTINF:-1 group-title="TvAberta",Band RJ HD
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1684
+
+# ===== SONYCHANNELSD =====
+
+#EXTINF:-1 group-title="Filme",Sony Channel SD
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1180
+
+# ===== CINEMAXHD =====
+
+#EXTINF:-1 group-title="Filme",Cinemax HD
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1185
+
+# ===== DISCOVERYH&HFHD =====
+
+#EXTINF:-1 group-title="Variedade",Discovery H&H FHD
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1120
+
+# ===== DISCOVERYH&HHD =====
+
+#EXTINF:-1 group-title="Variedade",Dicovery H&H HD
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1121
+
+# ===== HBOPLUSFHD =====
+
+#EXTINF:-1 group-title="Filme",HBO PLUS FHD
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1735
+
+# ===== HBOPLUSHD =====
+
+#EXTINF:-1 group-title="Filme",HBO PLUS HD
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1736
+
+# ===== SPACEFHD =====
+
+#EXTINF:-1 group-title="Filme",Space FHD
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1190
+
+# ===== SPACEHD =====
+
+#EXTINF:-1 group-title="Filme",Space HD
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1191
+
+# ===== SPACESD =====
+
+#EXTINF:-1 group-title="Filme",Space SD
+http://cdn.p2player.online/vaniotvtcl284/1353466424556/1189
+
